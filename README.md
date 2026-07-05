@@ -121,17 +121,6 @@ Admin panel:
 http://127.0.0.1:8000/admin
 ```
 
----
-
-## 📸 Screenshots
-
-<img src="screenshots/one.png" height="800">
-
-<img src="screenshots/two.png" height="800">
-
-<img src="screenshots/three.png" height="800">
-
----
 
 ## 🎯 Future Improvements
 
